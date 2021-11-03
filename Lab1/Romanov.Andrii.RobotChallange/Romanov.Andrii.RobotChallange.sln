@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romanov.Andrii.RobotChallange", "Romanov.Andrii.RobotChallange.csproj", "{B0D31E4F-F0B4-446F-A34B-FD894B15B15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romanov.Andrii.RobotChallenge.Test", "..\Romanov.Andrii.RobotChallenge.Test\Romanov.Andrii.RobotChallenge.Test.csproj", "{E29ABE6E-E692-4027-8D81-1509F2DA03B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D31E4F-F0B4-446F-A34B-FD894B15B15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D31E4F-F0B4-446F-A34B-FD894B15B15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D31E4F-F0B4-446F-A34B-FD894B15B15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D31E4F-F0B4-446F-A34B-FD894B15B15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29ABE6E-E692-4027-8D81-1509F2DA03B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29ABE6E-E692-4027-8D81-1509F2DA03B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29ABE6E-E692-4027-8D81-1509F2DA03B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29ABE6E-E692-4027-8D81-1509F2DA03B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A99C92-8D11-405F-92B4-BC305F7FC913}
+	EndGlobalSection
+EndGlobal

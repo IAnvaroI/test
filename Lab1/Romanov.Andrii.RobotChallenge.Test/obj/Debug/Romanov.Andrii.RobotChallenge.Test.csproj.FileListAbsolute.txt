@@ -1,0 +1,16 @@
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Romanov.Andrii.RobotChallenge.Test.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Romanov.Andrii.RobotChallenge.Test.pdb
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Robot.Common.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Romanov.Andrii.RobotChallange.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Romanov.Andrii.RobotChallange.pdb
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\obj\Debug\Romanov.Andrii.RobotChallenge.Test.csproj.AssemblyReference.cache
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\obj\Debug\Romanov.Andrii.RobotChallenge.Test.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\obj\Debug\Romanov.Andrii.RobotChallenge.Test.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallenge.Test\obj\Debug\Romanov.Andrii.RobotChallenge.Test.pdb

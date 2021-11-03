@@ -1,0 +1,7 @@
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallange\bin\Debug\Romanov.Andrii.RobotChallange.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallange\bin\Debug\Romanov.Andrii.RobotChallange.pdb
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallange\bin\Debug\Robot.Common.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallange\obj\Debug\Romanov.Andrii.RobotChallange.csproj.AssemblyReference.cache
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallange\obj\Debug\Romanov.Andrii.RobotChallange.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallange\obj\Debug\Romanov.Andrii.RobotChallange.dll
+D:\Programming\C#\PZConstruction\Lab1\Romanov.Andrii.RobotChallange\obj\Debug\Romanov.Andrii.RobotChallange.pdb
