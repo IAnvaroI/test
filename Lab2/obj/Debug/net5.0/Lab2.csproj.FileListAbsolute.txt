@@ -1,0 +1,16 @@
+D:\Programming\C#\PZConstruction\Lab2\bin\Debug\net5.0\Lab2.exe
+D:\Programming\C#\PZConstruction\Lab2\bin\Debug\net5.0\Lab2.deps.json
+D:\Programming\C#\PZConstruction\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\Programming\C#\PZConstruction\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\Programming\C#\PZConstruction\Lab2\bin\Debug\net5.0\Lab2.dll
+D:\Programming\C#\PZConstruction\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+D:\Programming\C#\PZConstruction\Lab2\bin\Debug\net5.0\Lab2.pdb
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.dll
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.pdb
+D:\Programming\C#\PZConstruction\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
