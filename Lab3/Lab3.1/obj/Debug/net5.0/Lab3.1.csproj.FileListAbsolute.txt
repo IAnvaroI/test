@@ -1,0 +1,16 @@
+D:\Programming\C#\PZConstruction\Lab3\bin\Debug\net5.0\Lab3.1.exe
+D:\Programming\C#\PZConstruction\Lab3\bin\Debug\net5.0\Lab3.1.deps.json
+D:\Programming\C#\PZConstruction\Lab3\bin\Debug\net5.0\Lab3.1.runtimeconfig.json
+D:\Programming\C#\PZConstruction\Lab3\bin\Debug\net5.0\Lab3.1.runtimeconfig.dev.json
+D:\Programming\C#\PZConstruction\Lab3\bin\Debug\net5.0\Lab3.1.dll
+D:\Programming\C#\PZConstruction\Lab3\bin\Debug\net5.0\ref\Lab3.1.dll
+D:\Programming\C#\PZConstruction\Lab3\bin\Debug\net5.0\Lab3.1.pdb
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.csproj.AssemblyReference.cache
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.AssemblyInfoInputs.cache
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.AssemblyInfo.cs
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.dll
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\ref\Lab3.1.dll
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.pdb
+D:\Programming\C#\PZConstruction\Lab3\obj\Debug\net5.0\Lab3.1.genruntimeconfig.cache

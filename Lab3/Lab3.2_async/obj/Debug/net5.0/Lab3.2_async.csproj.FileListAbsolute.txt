@@ -1,0 +1,16 @@
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\bin\Debug\net5.0\Lab3.2_async.exe
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\bin\Debug\net5.0\Lab3.2_async.deps.json
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\bin\Debug\net5.0\Lab3.2_async.runtimeconfig.json
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\bin\Debug\net5.0\Lab3.2_async.runtimeconfig.dev.json
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\bin\Debug\net5.0\Lab3.2_async.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\bin\Debug\net5.0\ref\Lab3.2_async.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\bin\Debug\net5.0\Lab3.2_async.pdb
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.csproj.AssemblyReference.cache
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.AssemblyInfoInputs.cache
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.AssemblyInfo.cs
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\ref\Lab3.2_async.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.pdb
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_async\obj\Debug\net5.0\Lab3.2_async.genruntimeconfig.cache

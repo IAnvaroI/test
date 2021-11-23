@@ -1,0 +1,16 @@
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\bin\Debug\net5.0\Lab3.2_sync.exe
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\bin\Debug\net5.0\Lab3.2_sync.deps.json
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\bin\Debug\net5.0\Lab3.2_sync.runtimeconfig.json
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\bin\Debug\net5.0\Lab3.2_sync.runtimeconfig.dev.json
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\bin\Debug\net5.0\Lab3.2_sync.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\bin\Debug\net5.0\ref\Lab3.2_sync.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\bin\Debug\net5.0\Lab3.2_sync.pdb
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.csproj.AssemblyReference.cache
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.AssemblyInfoInputs.cache
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.AssemblyInfo.cs
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\ref\Lab3.2_sync.dll
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.pdb
+D:\Programming\C#\PZConstruction\Lab3\Lab3.2_sync\obj\Debug\net5.0\Lab3.2_sync.genruntimeconfig.cache
