@@ -107,25 +107,7 @@ namespace Lab2
             }
         }
 
-        /*public void Task4_OrderBy()
-        {
-            var recordsBySurname = records.OrderBy(r => r.patient_surname);
-            foreach (var item in recordsBySurname)
-            {
-                Console.WriteLine(item);
-            }
-        }
-        public void Task4_OrderByThenDoctorName()
-        {
-            var recordsBySurname = records.OrderBy(r => r.doctor_surname)
-                                          .ThenBy(d => d.patient_surname);
-
-            foreach (var item in recordsBySurname)
-            {
-                Console.WriteLine(item);
-            }
-        }
-        */
+       
         public override string ToString()
         {
             string result = "";
