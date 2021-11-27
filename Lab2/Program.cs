@@ -18,6 +18,7 @@ namespace Lab2
                 new Record("King", "Evans", new DateTime(2021, 11, 24), 5, "biopsy"),
                 new Record("Baker", "Green", new DateTime(2021, 12, 19), 1, "check-up"),
                 new Record("Wright", "Johnson", new DateTime(2021, 10, 15), 2, "X-ray"),
+                new Record("Edwards", "Clark", new DateTime(2021, 9, 14), 9, "CT scan"),
             });
 
             Console.WriteLine("TASK 1:");
